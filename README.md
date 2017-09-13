@@ -8,3 +8,6 @@ I use the data from TIMSS databases and use some variables to predict participan
 Futhermore, I'd like to know which variables are important to math score.
 
 Answer this question may help us to inspect problems on our math education.
+
+TIMSS_data_management.R file contains the code to get data from database and some data visualization.
+
